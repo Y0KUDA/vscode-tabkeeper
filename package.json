@@ -1,4 +1,5 @@
 {
+	"publisher": "Y0KUDA",
 	"name": "tabkeeper",
 	"displayName": "tabkeeper",
 	"description": "save and pop your tabs.",
@@ -19,7 +20,8 @@
 			{
 				"command": "extension.saveTabs",
 				"title": "Tab keeper : Save tabs"
-			},{
+			},
+			{
 				"command": "extension.popTabs",
 				"title": "Tab keeper : Pop tabs"
 			}
