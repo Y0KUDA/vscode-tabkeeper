@@ -6,7 +6,7 @@
     Saved tabs are going to be poped.
 
 ## Tab keeper : Save tabs
-![](./pop_tabs.gif)
+![](./save_tabs.gif)
 
 ## Tab keeper : Pop tabs
-![](./save_tabs.gif)
+![](./pop_tabs.gif)
