@@ -3,7 +3,11 @@
 	"name": "tabkeeper",
 	"displayName": "tabkeeper",
 	"description": "save and pop your tabs.",
-	"version": "0.0.1",
+	"version": "0.0.2",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Y0KUDA/vscode-tabkeeper.git"
+	  },
 	"engines": {
 		"vscode": "^1.31.0"
 	},
